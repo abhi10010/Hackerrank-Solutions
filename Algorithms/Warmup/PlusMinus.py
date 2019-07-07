@@ -21,9 +21,3 @@ def plusMinus(arr):
     print("%.6f" %float(r_pos/len(arr)))
     print("%.6f" %float(r_neg/len(arr)))
     print("%.6f" %float(r_zer/len(arr)))
-if __name__ == '__main__':
-    n = int(input())
-
-    arr = list(map(int, input().rstrip().split()))
-
-    plusMinus(arr)
