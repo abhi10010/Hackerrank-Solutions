@@ -20,7 +20,3 @@ def miniMaxSum(arr):
         if largest < arr[i]:
             largest = arr[i]
     print(sum-largest, sum-smallest)
-if __name__ == '__main__':
-    arr = list(map(int, input().rstrip().split()))
-
-    miniMaxSum(arr)
