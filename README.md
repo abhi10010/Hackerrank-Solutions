@@ -1,4 +1,4 @@
-# HackerRank
+# HackerRank Solutions
 Solved Examples for HackerRank Algorithms in Python3
   </br>
   1. Warmup </br>
