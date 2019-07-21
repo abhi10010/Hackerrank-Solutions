@@ -15,7 +15,6 @@ def flatlandSpaceStations(n, c):
                 a.append(int(abs(c[i]-c[i+1])/2))
             a.append(c[0])
             a.append(int(abs(c[-1]-n+1)))
-            print(a)
             return max(a)
         else:
             for i in range(n):
