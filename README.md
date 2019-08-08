@@ -13,7 +13,7 @@ Solved Examples for HackerRank Algorithms in Python3
     1.9 Very Big Sum </br>
     </br>
   2. Implementation </br>
-    <pre>3D Surface Area<pre></br>	
+    <pre>3D Surface Area</pre></br>	
 ACM ICPC Team
 Absolute Permutation
 Almost Sorted
