@@ -76,3 +76,6 @@ Solved Examples for HackerRank Algorithms in Python3
     2.61 The Time In Words </br>
     2.62 Utopian Tree </br>
     2.63 Viral Advertising </br>
+    </br>
+  3. Strings </br>
+   
