@@ -78,4 +78,28 @@ Solved Examples for HackerRank Algorithms in Python3
     2.63 Viral Advertising </br>
     </br>
   3. Strings </br>
+    3.1  Alternating Characters </br>	
+    3.2  Anagram </br>
+    3.3  Beautiful Binary String </br>
+    3.4  Ceasar Cifer </br>
+    3.5  Camel Case </br>
+    3.6  Funny Strings </br>
+    3.7  Game Of Thrones </br>
+    3.8  Gemstones </br>
+    3.9  Hackerrank In A String </br>
+    3.10 Making Anagrams </br>
+    3.11 Mars Exploration </br>
+    3.12 Palindrome Index </br>
+    3.13 Pangrams </br>
+    3.14 Separate The Numbers </br>
+    3.15 Sherlock And Anagrams </br>
+    3.16 Sherlock And The Valid String </br>
+    3.17 String Construction </br>
+    3.18 Strong Password </br>
+    3.19 Super Reduced String </br>
+    3.20 The Love Letter Mystery </br>
+    3.21 Two Characters </br>
+    3.22 Two Strings </br>
+    3.23 Weigthed Uniform Strings </br>
+
    
