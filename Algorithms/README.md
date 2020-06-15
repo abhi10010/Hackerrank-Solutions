@@ -1,7 +1,7 @@
 <h3><strong>Solved Examples for HackerRank Algorithms in Python3</h3></strong>
   </br>
-  1. Warmup </br>
-    <tab>1.1  Birthday Cake Candles </br>
+  <strong>1. Warmup </strong></br>
+    1.1  Birthday Cake Candles </br>
     1.2  Compare The Triplets </br>
     1.3  Diagonal Difference </br>
     1.4  Min Max Sum	</br>
@@ -11,7 +11,7 @@
     1.8  Time Conversions </br>
     1.9  Very Big Sum </br>
     </br>
-  2. Implementation </br>
+  <strong>2. Implementation</strong> </br>
     2.1  3D Surface Area </br>	
     2.2  ACM ICPC Team </br>
     2.3  Absolute Permutation </br>
@@ -76,7 +76,7 @@
     2.62 Utopian Tree </br>
     2.63 Viral Advertising </br>
     </br>
-  3. Strings </br>
+  <strong>3. Strings</strong> </br>
     3.1  Alternating Characters </br>	
     3.2  Anagram </br>
     3.3  Beautiful Binary String </br>
