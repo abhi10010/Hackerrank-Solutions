@@ -1,7 +1,7 @@
 <h3><strong>Solved Examples for HackerRank Algorithms in Python3</h3></strong>
   </br>
   1. Warmup </br>
-    1.1  Birthday Cake Candles </br>
+    <tab>1.1  Birthday Cake Candles </br>
     1.2  Compare The Triplets </br>
     1.3  Diagonal Difference </br>
     1.4  Min Max Sum	</br>
