@@ -19,10 +19,31 @@
     1.16  Weather Observation Station 11</br>
     1.17  Weather Observation Station 12</br>
   </br>  
-  <strong>2. Advanced SELECT </strong></br>
-    2.1  Binary Tree Node </br>
-    2.2  New Companies </br>
-    2.3  Occupations </br>
-    2.4  The PADS	</br>
-    2.5  Type of Triangle	</br>
+  
+  <strong>2. Aggregation </strong></br>
+    2.1  Average Population </br>
+    2.2  Averages </br>
+    2.3  Japan Population </br>
+    2.4  Population Density Difference	</br>
+    2.5  The Blunder	</br>
+    2.6  The Count Function	</br>
+    2.7  The Sum Function </br>
+    2.8  Top Earners </br>
+    2.9  Weather Observation Station 2</br>
+    2.10  Weather Observation Station 13</br>
+    2.11  Weather Observation Station 14</br>
+    2.12  Weather Observation Station 15</br>
+    2.13  Weather Observation Station 16</br>
+    2.14  Weather Observation Station 17</br>
+    2.15  Weather Observation Station 18</br>
+    2.16  Weather Observation Station 19</br>
+    2.17  Weather Observation Station 20</br>
+  </br> 
+  
+  <strong>3. Advanced SELECT </strong></br>
+    3.1  Binary Tree Node </br>
+    3.2  New Companies </br>
+    3.3  Occupations </br>
+    3.4  The PADS	</br>
+    3.5  Type of Triangle	</br>
     
