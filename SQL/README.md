@@ -47,3 +47,12 @@
     3.4  The PADS	</br>
     3.5  Type of Triangle	</br>
     
+  <strong>4. Basic JOIN </strong></br>
+    4.1  African Cities </br>
+    4.2  Asian Population </br>
+    4.3  Average Population Of Each Continent</br>
+    4.4  Challenges</br>
+    4.5  Contest Leaderboard</br>
+    4.6  Ollivander's Inventory</br>
+    4.7  The Report</br>
+    4.8  Top Competitors</br>
