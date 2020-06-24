@@ -56,3 +56,16 @@
     4.6  Ollivander's Inventory</br>
     4.7  The Report</br>
     4.8  Top Competitors</br>
+    
+   <strong>5. Advanced JOIN </strong></br>
+    5.1  Binary Tree Node </br>
+    5.2  Interviews </br>
+    5.3  Placements </br>
+    5.4  SQL Project Planning	</br>
+    5.5  Symmetric Pairs	</br>
+   
+   <strong>6. Alternative Queries </strong></br>
+    6.1  Draw the Triange 1 </br>
+    6.2  Draw the Triange 2 </br>
+    6.3  Print Prime Numbers </br>
+  
