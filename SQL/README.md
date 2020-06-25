@@ -58,7 +58,7 @@
     4.8  Top Competitors</br>
     
    <strong>5. Advanced JOIN </strong></br>
-    5.1  Binary Tree Node </br>
+    5.1  15 Days of Learning SQL </br>
     5.2  Interviews </br>
     5.3  Placements </br>
     5.4  SQL Project Planning	</br>
