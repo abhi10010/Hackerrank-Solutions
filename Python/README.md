@@ -16,3 +16,19 @@
     2.4  Lists	</br>
     2.5  Nested Lists	</br>
     2.6  Tuples </br>
+  </br>
+  <strong>3. Strings </strong></br>
+    3.1  Alphabet Rangoli
+    3.2  Capitalize!
+    3.3  Designer Door Mat
+    3.4  Find a string
+    3.5  Merge the Tools!
+    3.6  Mutations
+    3.7  String Formatting
+    3.8  String Split and Join
+    3.9  String Validators
+    3.10  Text Alignment
+    3.11  Text Wrap
+    3.12  The Minion Game
+    3.13  What's Your Name?
+    3.14  sWAP cASE
