@@ -47,4 +47,13 @@
     4.11  Set .union() Operation </br>
     4.12  Symmetric Difference </br>
     4.13  The Captain's Room </br>
+  </br>
+  <strong>5. Math </strong></br>
+    5.1  Find Angle MBC </br>
+    5.2  Integers Come In All Sizes </br>
+    5.3  Mod Divmod </br>
+    5.4  Polar Coordinates </br>
+    5.5  Power - Mod Power </br>
+    5.6  Triangle Quest </br>
+    5.7  Triangle Quest 2 </br>
   
