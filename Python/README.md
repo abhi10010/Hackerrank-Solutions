@@ -56,4 +56,13 @@
     5.5  Power - Mod Power </br>
     5.6  Triangle Quest </br>
     5.7  Triangle Quest 2 </br>
+  </br>
+  <strong>6. Itertools </strong></br>
+    6.1  Compress the String! </br>
+    6.2  Iterables and Iterators </br>
+    6.3  itertools.combinations() </br>
+    6.4  itertools.combinations_with_replacement() </br>
+    6.5  itertools.permutations() </br>
+    6.6  itertools.product() </br>
+    6.7  Maximize It! </br>
   
