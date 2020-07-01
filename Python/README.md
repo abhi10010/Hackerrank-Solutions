@@ -65,4 +65,14 @@
     6.5  itertools.permutations() </br>
     6.6  itertools.product() </br>
     6.7  Maximize It! </br>
+  </br>
+  <strong>7. Collections </strong></br>
+    7.1  collections.Counter() </br>
+    7.2  collections.deque() </br>
+    7.3  collections.namedtuple() </br>
+    7.4  collections.OrderedDict() </br>
+    7.5  Company Logo </br>
+    7.6  DefaultDict Tutorial </br>
+    7.7  Pilling Up! </br>
+    7.8  Word Order </br>
   
