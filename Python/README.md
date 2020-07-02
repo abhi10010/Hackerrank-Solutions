@@ -79,3 +79,7 @@
   <strong>8. Date and Time </strong></br>
     8.1  Calendar Module </br>
     8.2  Time Delta </br>
+  </br>
+  <strong>9. Errors and Exceptions </strong></br>
+    9.1  Exceptions </br>
+    9.2  Incorrect Regex </br>
