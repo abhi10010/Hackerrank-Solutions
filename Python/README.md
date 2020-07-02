@@ -75,4 +75,7 @@
     7.6  DefaultDict Tutorial </br>
     7.7  Pilling Up! </br>
     7.8  Word Order </br>
-  
+  </br>
+  <strong>8. Date and Time </strong></br>
+    8.1  Calendar Module </br>
+    8.2  Time Delta </br>
