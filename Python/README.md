@@ -83,3 +83,7 @@
   <strong>9. Errors and Exceptions </strong></br>
     9.1  Exceptions </br>
     9.2  Incorrect Regex </br>
+ </br>
+ <strong>10. Classes </strong></br>
+    10.1  Class 2 - Find the Torsional Angle </br>
+    10.2  Classes: Dealing with Complex Numbers </br>
