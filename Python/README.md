@@ -87,3 +87,12 @@
  <strong>10. Classes </strong></br>
     10.1  Class 2 - Find the Torsional Angle </br>
     10.2  Classes: Dealing with Complex Numbers </br>
+ </br>
+ <strong>11. Built-Ins </strong></br>
+    11.1  Any or All </br>
+    11.2  Athelete Sort </br>
+    11.3  Input() </br>
+    11.4  Python Evaluation </br>
+    11.5  Zipped! </br>
+    11.6  ginortS </br>
+ 
