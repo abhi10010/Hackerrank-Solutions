@@ -95,4 +95,8 @@
     11.4  Python Evaluation </br>
     11.5  Zipped! </br>
     11.6  ginortS </br>
- 
+ </br>
+ <strong>12. Python Functionals </strong></br>
+    12.1  Map and Lambda Function </br>
+    12.2  Reduce Function </br>
+    12.3  Validating Email Addresses with a Filter </br>
