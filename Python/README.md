@@ -100,3 +100,22 @@
     12.1  Map and Lambda Function </br>
     12.2  Reduce Function </br>
     12.3  Validating Email Addresses with a Filter </br>
+ </br>
+ <strong>13. Regex and Parsing </strong></br>
+    13.1  Detect Floating Point Number </br>
+    13.2  Detect HTML Tags, Attributes and Attribute Values </br>
+    13.3  Group(), Groups() & Groupdict() </br>
+    13.4  HTML Parser - Part 1 </br>
+    13.5  HTML Parser - Part 2 </br>
+    13.6  Hex Color Code </br>
+    13.7  Matrix Script </br>
+    13.8  Re.findall() & Re.finditer() </br>
+    13.9  Re.split() </br>
+    13.10  Re.start() & Re.end() </br>
+    13.11 Regex Substitution </br>
+    13.12  Validating and Parsing Email Addresses </br>
+    13.13  Validating Credit Card Numbers </br>
+    13.14  Validating phone numbers </br>
+    13.15  Validating Postal Codes </br>
+    13.16  Validating Roman Numerals </br>
+    13.17  Validating UID </br>
