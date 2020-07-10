@@ -119,3 +119,7 @@
     13.15  Validating Postal Codes </br>
     13.16  Validating Roman Numerals </br>
     13.17  Validating UID </br>
+ </br>
+ <strong>14. XML </strong></br>
+    14.1  XML 1 - Find the Score </br>
+    14.2  XML2 - Find the Maximum Depth </br>
