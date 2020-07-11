@@ -125,5 +125,5 @@
     14.2  XML2 - Find the Maximum Depth </br>
  </br>
  <strong>15. Closures and Decorators </strong></br>
-    14.1  Decorators 2 - Name Directory </br>
-    14.2  Standardize Mobile Number Using Decorators </br>
+    15.1  Decorators 2 - Name Directory </br>
+    15.2  Standardize Mobile Number Using Decorators </br>
