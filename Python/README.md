@@ -127,3 +127,7 @@
  <strong>15. Closures and Decorators </strong></br>
     15.1  Decorators 2 - Name Directory </br>
     15.2  Standardize Mobile Number Using Decorators </br>
+ </br>
+ <strong>16. Debugging </strong></br>
+    16.1  Default Arguments </br>
+    16.2  Words Score </br>
