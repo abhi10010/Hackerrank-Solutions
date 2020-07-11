@@ -123,3 +123,7 @@
  <strong>14. XML </strong></br>
     14.1  XML 1 - Find the Score </br>
     14.2  XML2 - Find the Maximum Depth </br>
+ </br>
+ <strong>15. Closures and Decorators </strong></br>
+    14.1  Decorators 2 - Name Directory </br>
+    14.2  Standardize Mobile Number Using Decorators </br>
