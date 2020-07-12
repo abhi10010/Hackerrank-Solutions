@@ -112,7 +112,7 @@
     13.8  Re.findall() & Re.finditer() </br>
     13.9  Re.split() </br>
     13.10  Re.start() & Re.end() </br>
-    13.11 Regex Substitution </br>
+    13.11  Regex Substitution </br>
     13.12  Validating and Parsing Email Addresses </br>
     13.13  Validating Credit Card Numbers </br>
     13.14  Validating phone numbers </br>
@@ -131,3 +131,20 @@
  <strong>16. Debugging </strong></br>
     16.1  Default Arguments </br>
     16.2  Words Score </br>
+ </br>
+ <strong>17. Numpy </strong></br>
+    17.1  Array Mathematics </br>
+    17.2  Arrays </br>
+    17.3  Concatenate </br>
+    17.4  Dot and Cross </br>
+    17.5  Eye and Identity </br>
+    17.6  Floor, Ceil and Rint.py </br>
+    17.7  Inner and Outer </br>
+    17.8  Linear Algebra </br>
+    17.9  Mean, Var, and Std </br>
+    17.10  Min and Max </br>
+    17.11  Polynomials </br>
+    17.12  Shape and Reshape </br>
+    17.13  Sum and Prod </br>
+    17.14  Transpose and Flatten </br>
+    17.15  Zeros and Ones </br>
